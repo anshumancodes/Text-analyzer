@@ -1,0 +1,11 @@
+:root{
+    --color-1:#2F4858;
+    --bg-color:#FCF7FF;
+    --yellow-btn:#F0C808;
+    --org-btn:#F58A07;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
