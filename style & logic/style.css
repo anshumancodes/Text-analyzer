@@ -3,9 +3,58 @@
     --bg-color:#FCF7FF;
     --yellow-btn:#F0C808;
     --org-btn:#F58A07;
+    --btn-green:#63B995;
 }
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    
+}
+a{
+    color: var(--color-1);
+}
+body{
+    background-color: var(--bg-color);
+}
+header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    margin-top: 5vh;
+    align-items: center;
+}
+nav .right{
+    display: flex;
+    gap: 3vw;
+}
+nav .right .links{
+    display: flex;
+    gap: 4vw;
+    align-items: center;
+    
+}
+
+nav .logo{
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: var(--color-1);
+
+}
+nav .right .search input{
+    height: 4vh;
+}
+nav .right .search button{
+    background-color: var(--btn-green);
+    border: none;
+    font-size: 1.2rem;
+    padding: 0.3rem 0.5rem;
+    border-radius: 5px;
 }
