@@ -99,14 +99,11 @@ main p{
     border: none;
     border-radius: 4px;
  }
- main .buttons button:nth-child(1){
-    background:var(--color-1);
-    color: var(--bg-color);
- }
+ 
  main .buttons button:nth-child(2){
     background:var(--btn-green);
  }
- main .buttons button:nth-child(3){
+ main .buttons button:nth-child(1){
     
     background:var(--org-btn);
  }
