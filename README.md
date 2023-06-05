@@ -11,7 +11,7 @@ To use the Simple Text Analyzer locally, follow the instructions below:
 Download the repository as a ZIP file.
 Extract the ZIP file to your desired location on your computer.
 Open the extracted folder and navigate to the index.html file.
-Usage
+<h3>Usage</h3>
 Open the index.html file in your preferred web browser.
 The Simple Text Analyzer application will be displayed in your browser window.
 Enter your text into the provided text area.
@@ -27,8 +27,7 @@ style_logic/logic.js: The JavaScript file that contains the logic for counting w
 Contributions
 Contributions to the Simple Text Analyzer project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the project's GitHub repository.
 
-License
-The Simple Text Analyzer is open-source software licensed under the MIT license. Feel free to modify and distribute the code as per the terms of the license.
+
 
 Acknowledgments
 The Simple Text Analyzer was built using HTML, CSS, and JavaScript, with inspiration and guidance from various online tutorials and resources.
